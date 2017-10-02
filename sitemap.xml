@@ -3,71 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/project/deeplearning/</loc>
+    <loc>https://intelligentlightingsystems.github.io/project/deeplearning/</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/project/widelearning/</loc>
+    <loc>https://intelligentlightingsystems.github.io/project/widelearning/</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/member/member1/</loc>
+    <loc>https://intelligentlightingsystems.github.io/member/member1/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/member/member2/</loc>
+    <loc>https://intelligentlightingsystems.github.io/member/member2/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/member/member3/</loc>
+    <loc>https://intelligentlightingsystems.github.io/member/member3/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://intelligentlightingsystems.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/approach/</loc>
+    <loc>https://intelligentlightingsystems.github.io/approach/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/mission/</loc>
+    <loc>https://intelligentlightingsystems.github.io/mission/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/research/</loc>
+    <loc>https://intelligentlightingsystems.github.io/research/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://intelligentlightingsystems.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2016-07-12T16:10:22+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/member/</loc>
-    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/project/</loc>
+    <loc>https://intelligentlightingsystems.github.io/</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://intelligentlightingsystems.github.io/member/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://intelligentlightingsystems.github.io/project/</loc>
+    <lastmod>2016-07-12T16:10:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://intelligentlightingsystems.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
