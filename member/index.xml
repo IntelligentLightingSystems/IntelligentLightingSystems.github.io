@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Members on Intelligent Lighting Systems</title>
+    <link>http://example.org/member/</link>
+    <description>Recent content in Members on Intelligent Lighting Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; SPS, 2017 </copyright>
+    <lastBuildDate>Tue, 12 Jul 2016 15:52:22 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/member/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Member 1</title>
+      <link>http://example.org/member/member1/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/member/member1/</guid>
+      <description>Jean-Paul Linnartz is Research Fellow with Philips Lighting and Professor at TU/e. His main research topic is Intelligent Lighting Systems and Optical Wireless Communication.
+Previously he was a Senior Director and Department Head at Philips Research in Eindhoven, the Netherlands. He authored many scientific papers about electronic watermarks and radio communications (OFDM, MC-CDMA, random access). He was a faculty member at the University of California at Berkeley and at Delft University of Technology.</description>
+    </item>
+    
+    <item>
+      <title>Member 2</title>
+      <link>http://example.org/member/member2/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/member/member2/</guid>
+      <description>Anton Alexeev is a PhD candidate at Eindhoven University of Technology. His main research topic is LEDs compact modeling. He is involved in European Project Delphi4LED. Prior to the start of pursuing his PhD He obtained a Design and Technology of Instrumentation PdEng degree, and successfully finished three design projects in Momentive Performance Materials (USA), NXP, and Philips Lighting (The Netherlands). He received his Master degree in physics from Novosibirsk State University for investigation of hypersonic vehicles combustion chambers test methods.</description>
+    </item>
+    
+    <item>
+      <title>Member 3</title>
+      <link>http://example.org/member/member3/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/member/member3/</guid>
+      <description>You can write $\LaTeX$ and Markdown here.
+Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
+    </item>
+    
+  </channel>
+</rss>
